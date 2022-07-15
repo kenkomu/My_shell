@@ -1,6 +1,7 @@
 Running
 ---
-If you want to run it run the code-
+To run the code use 
+```
 	gcc shell.c -lreadline \n
 	./a.out 
-
+```
