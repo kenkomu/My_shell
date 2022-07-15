@@ -2,6 +2,6 @@ Running
 ---
 To run the code use 
 ```
-	gcc shell.c -lreadline \n
+	gcc shell.c -lreadline 
 	./a.out 
 ```
